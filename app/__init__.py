@@ -2,6 +2,8 @@
 
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
+from models.sessions import Session
+
 
 db = SQLAlchemy()
 

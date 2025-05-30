@@ -21,3 +21,6 @@ add_housing()
 
 Mail_routes.py
 send_test_email
+
+Le 30/05/2025
+Ajout du Token de session FrontEnd et BackEnd
